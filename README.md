@@ -1,0 +1,2 @@
+# ByeByeTrainingInstitutionsList
+收录北上广深培训机构，防止踩坑
