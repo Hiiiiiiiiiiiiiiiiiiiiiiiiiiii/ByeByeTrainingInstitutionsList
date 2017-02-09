@@ -11,4 +11,4 @@
   
 [打包下载](https://github.com/liyuhang1997/ByeByeTrainingInstitutionsList/archive/master.zip)  
   
-[如有误伤可Issues](https://github.com/liyuhang1997/ByeByeTrainingInstitutionsList/archive/master.zip)  
+[如有误伤可Issues](https://github.com/liyuhang1997/ByeByeTrainingInstitutionsList/issues)  
