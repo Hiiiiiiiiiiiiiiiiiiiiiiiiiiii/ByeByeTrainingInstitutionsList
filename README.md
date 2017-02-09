@@ -5,5 +5,8 @@
 [深圳](https://github.com/liyuhang1997/ByeByeTrainingInstitutionsList/blob/master/Shenzhen.txt)
 [杭州](https://github.com/liyuhang1997/ByeByeTrainingInstitutionsList/blob/master/Hangzhou.txt)
 [成都](https://github.com/liyuhang1997/ByeByeTrainingInstitutionsList/blob/master/Chengdu.txt)
-[武汉](https://github.com/liyuhang1997/ByeByeTrainingInstitutionsList/blob/master/Wuhan.txt)
-可 Ctrl+F/Command-F 查找  
+[武汉](https://github.com/liyuhang1997/ByeByeTrainingInstitutionsList/blob/master/Wuhan.txt)  
+可 Ctrl+F/Command-F 查找  
+  
+[打包下载](https://github.com/liyuhang1997/ByeByeTrainingInstitutionsList/archive/master.zip)  
+[如有误伤可题Issues](https://github.com/liyuhang1997/ByeByeTrainingInstitutionsList/archive/master.zip)  
